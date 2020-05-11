@@ -1,18 +1,3 @@
-# Probe Data Analysis
-
-Run task 1 and 2:
-
-```
-python map_matching.py path_to_probe_data_dir/ path_to__dir/
-```
-
-
-Run task 3:
-
-```
-python single_smear_detection.py path_to_img_dir/ path_to_output_dir/
-```
-
 # Assignment #2
 ### Probe Data Analysis for Road Slope
 ### Boyu Wang, Jingya Xun
